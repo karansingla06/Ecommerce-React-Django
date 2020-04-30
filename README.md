@@ -9,7 +9,11 @@ An E-commerce web app built with Django and React. Implemented APIs for CRUD ope
 5. Discount codes
 6. Billing, Shipping Addresses
 
-## Backend development workflow
+
+
+## Installation- 
+
+### Backend development workflow
 
 ```json
 virtualenv env
@@ -18,14 +22,14 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 
-## Frontend development workflow
+### Frontend development workflow
 
 ```json
 npm i
 npm start
 ```
 
-## For deploying
+### For deploying
 
 ```json
 npm run build
